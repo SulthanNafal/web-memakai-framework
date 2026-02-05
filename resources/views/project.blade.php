@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Modern Business - Start Bootstrap Template</title>
+        <title>UrsaEvent</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Custom Google font-->
@@ -22,13 +22,13 @@
             <!-- Navigation-->
             <nav class="navbar navbar-expand-lg navbar-light bg-white py-3">
                 <div class="container px-5">
-                    <a class="navbar-brand" href="index.html"><span class="fw-bolder text-primary">Start Bootstrap</span></a>
+                    <a class="navbar-brand" href="index.html"><span class="fw-bolder text-primary">Ursa Event</span></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0 small fw-bolder">
                             <a class="nav-link" href="{{ url('/') }}">Home</a>
-                          <a class="nav-link" href="{{ url('/resume') }}">Resume</a>
-                            <a class="nav-link" href="{{ url('/project') }}">Projects</a>
+                          <a class="nav-link" href="{{ url('/resume') }}">Team</a>
+                            <a class="nav-link" href="{{ url('/project') }}">Event</a>
                             <a class="nav-link" href="{{ url('/contact') }}">Contact</a>
                         </ul>
                     </div>
@@ -38,7 +38,7 @@
             <section class="py-5">
                 <div class="container px-5 mb-5">
                     <div class="text-center mb-5">
-                        <h1 class="display-5 fw-bolder mb-0"><span class="text-gradient d-inline">Projects</span></h1>
+                        <h1 class="display-5 fw-bolder mb-0"><span class="text-gradient d-inline">Events</span></h1>
                     </div>
                     <div class="row gx-5 justify-content-center">
                         <div class="col-lg-11 col-xl-9 col-xxl-8">
@@ -47,10 +47,11 @@
                                 <div class="card-body p-0">
                                     <div class="d-flex align-items-center">
                                         <div class="p-5">
-                                            <h2 class="fw-bolder">Project Name 1</h2>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at enim eum illum aperiam placeat esse? Mollitia omnis minima saepe recusandae libero, iste ad asperiores! Explicabo commodi quo itaque! Ipsam!</p>
+                                            <h2 class="fw-bolder">Persona Event</h2>
+                                            <p>The 30th-anniversary celebration of the Persona franchise will be held in Indonesia as part of the SEGA ATLUS Festival Jakarta. Confirmed by Atlus and Sega as part of the global anniversary series, this special event is scheduled to take place on February 7-8, 2026, at the Mall of Indonesia (MOI) in Kelapa Gading, North Jakarta. Fans can look forward to an array of exciting highlights, including exclusive 30th-anniversary Persona content, limited-edition merchandise, the latest game demos, and dedicated photo areas.
+                                            </p>
                                         </div>
-                                        <img class="img-fluid" src="https://dummyimage.com/300x400/343a40/6c757d" alt="..." />
+                                        <img class="img-fluid" src="https://i.pinimg.com/736x/ed/45/c8/ed45c8f72d9fcdcfb479c54f745fc764.jpg" alt="Persona Event" style="width: 300px; height: 400px; object-fit: cover;" />
                                     </div>
                                 </div>
                             </div>
@@ -59,10 +60,10 @@
                                 <div class="card-body p-0">
                                     <div class="d-flex align-items-center">
                                         <div class="p-5">
-                                            <h2 class="fw-bolder">Project Name 2</h2>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at enim eum illum aperiam placeat esse? Mollitia omnis minima saepe recusandae libero, iste ad asperiores! Explicabo commodi quo itaque! Ipsam!</p>
+                                            <h2 class="fw-bolder">Mobile Legends Tournament</h2>
+                                            <p>Join us for an exciting Mobile Legends tournament featuring top teams from across Indonesia. Compete for prizes and showcase your skills in this thrilling event. Registration is now open!</p>
                                         </div>
-                                        <img class="img-fluid" src="https://dummyimage.com/300x400/343a40/6c757d" alt="..." />
+                                        <img class="img-fluid" src="https://i.pinimg.com/736x/4f/d6/49/4fd6490dc372b3a37209a1ea5e547f43.jpg" alt="Mobile Legends Tournament" style="width: 300px; height: 400px; object-fit: cover;" />
                                     </div>
                                 </div>
                             </div>
